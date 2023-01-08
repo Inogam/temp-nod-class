@@ -1,0 +1,1 @@
+In utf8 following text:First textSecond text
